@@ -1,7 +1,7 @@
 ﻿namespace Playlist.Model
 {
     /// <summary>
-    /// The playlist object that will be created to hold tracks
+    /// The playlist class that will be created to hold tracks
     /// </summary>
     public class Playlist
     {
