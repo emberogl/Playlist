@@ -1,7 +1,7 @@
 ﻿namespace Playlist.Model
 {
     /// <summary>
-    /// A track object which contains:
+    /// A track class which contains:
     /// track length in seconds
     /// track name
     /// track artist
@@ -9,7 +9,7 @@
     /// Methods:
     /// get track length as string with m:s format
     /// get track name
-    /// get track author
+    /// get track artist
     /// </summary>
     public class Track
     {
